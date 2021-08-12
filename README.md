@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <!-- ![snake gif](https://github.com/somarjun/somarjun/blob/output/github-contribution-grid-snake.gif) -->
 
-[![](https://raw.githubusercontent.com/somarjun/somarjun/main/chat.svg?token=AAABPWFQB3UQVH67GAPKNRLAXLBQG)](https://linkedin.com/in/somarjunchandolu/)
+[![](https://raw.githubusercontent.com/somarjun/somarjun/main/chat.svg)](https://linkedin.com/in/somarjunchandolu/)
 
 <!--
 **somarjun/Somarjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
