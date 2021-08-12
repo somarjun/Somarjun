@@ -326,7 +326,7 @@
 
   <!-- LinkedIn -->
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="480" height="42" rx="18.0355" class="bubble" />
+    <rect width="450" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">
       You can find me on LinkedIn at 
         <a xlink:href="http://linkedin.com/in/somarjunchandolu/">@somarjunchandolu</a>
