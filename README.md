@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-![snake gif](https://github.com/somarjun/somarjun/blob/output/github-contribution-grid-snake.gif)
+<!-- ![snake gif](https://github.com/somarjun/somarjun/blob/output/github-contribution-grid-snake.gif) -->
 
 [![](https://raw.githubusercontent.com/somarjun/somarjun/main/chat.svg)](https://linkedin.com/in/somarjunchandolu/)
 
