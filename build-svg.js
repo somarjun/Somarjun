@@ -48,13 +48,13 @@ dayBubbleWidths = {
   Sunday: 230,
 }
 
-// Time working at Bilue
+// Time working at NRL
 const today = new Date()
 const todayDay = new Intl.DateTimeFormat('en-US', { weekday: 'long' }).format(
   today
 )
 
-const psTime = formatDistance(new Date(2021, 05, 10), today, {
+const psTime = formatDistance(new Date(2022, 05, 10), today, {
   addSuffix: false,
 })
 
