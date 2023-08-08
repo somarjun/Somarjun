@@ -301,7 +301,6 @@
   <g transform="translate(10, 120)" class="msg-3">
     <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I’m a full-stack engineer and entrepreneur.</text>
-    <text x="15" y="27">I worked in various industries.</text>
     <text x="15" y="50">I’ve been at 
       <a xlink:href="https://nrl.com/">NRL</a>
       for about {psTime} now.</text>
